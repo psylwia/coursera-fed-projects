@@ -29,23 +29,11 @@ section {
   border: 1px solid black;
   padding: 40px 10px 10px 10px;
   text-align: left;
+  background-color: #6ba9ad;
 }
 
 .row {
 	width: 100%;
-}
-
-#p1 {
-  background-color: #6ba9ad;
-  
-}
-#p2 {
-  background-color: #a8ccc9;
-  
-}
-#p3 {
-  background-color: #b3d6c6;
-    
 }
 
 section#p1 {
